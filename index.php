@@ -23,7 +23,7 @@ include("templates/navbar.php")
                 </th>
 
                 <th scope="col">
-                    Plan de Inversion
+                    Plan de Inversio
                 </th>
 
                 <th scope="col">
